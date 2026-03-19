@@ -26,6 +26,7 @@ clawhub install investment-research
 
 或手动安装到工作区：
 ```bash
+git clone https://github.com/CaiJichang212/investment-research.git
 cp -r investment-research ~/.openclaw/skills/
 ```
 
