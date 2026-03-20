@@ -2,7 +2,7 @@
 
 执行结构化投资研究（投研分析），用于公司/股票/ETF/行业的专业分析。
 
-[![Version](https://img.shields.io/badge/version-0.2.0-blue.svg)](https://github.com/openclaw/skill-template)
+[![Version](https://img.shields.io/badge/version-0.3.0-blue.svg)](https://github.com/openclaw/skill-template)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## 📋 功能概述
@@ -133,14 +133,14 @@ cp -r investment-research ~/.openclaw/skills/
 
 ## 🔧 技术规格
 
-- **版本**: 0.2.0
+- **版本**: 0.3.0
 - **语言**: 中英文双语
 - **兼容性**: OpenClaw / ClawHub
 - **依赖**: qveris-official (推荐), tavily-search (备用)
 
 ## 📝 更新日志
 
-### v0.2.0 (2026-03-19)
+### v0.3.0 (2026-03-19)
 - ✅ 完善 clawhub 元数据配置
 - ✅ 优化 SKILL.md 格式和内容
 - ✅ 添加工具要求说明

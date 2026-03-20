@@ -1,7 +1,7 @@
 ---
 name: investment-research
 description: Perform structured investment research (投研分析) for a company/stock/ETF/sector using a repeatable framework: fundamentals (basic/财务报表与商业模式), technical analysis (技术指标与关键价位), industry research (行业景气与竞争格局), valuation (估值对比/情景), catalysts and risks, and produce a professional research report + actionable plan. Use when the user asks for: equity/ETF analysis, earnings/financial statement breakdown, peer/industry comparison, valuation ranges, bull/base/bear scenarios, technical trend/support-resistance, or a full research memo.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Investment Research（投研分析）
